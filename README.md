@@ -49,3 +49,33 @@
 - [Skill 源文件](xiaohui-character-generation/SKILL.md)
 - [即梦上传版](packages/小辉角色生成-即梦上传版.md)
 - [下载标准技能包](packages/xiaohui-character-generation-v1.0.0.zip)
+
+### 商品推广图
+
+![小辉角色生成推广图](examples/character-generation/推广页.png)
+
+推广图沿用制作时的“灵颜”视觉名称，商品名称为“小辉 · 角色生成”。下面四张角色图对应推广图底部的写实、奇幻、武侠、二次元角色；全身服装根据头像补全。
+
+### 写实角色
+
+![写实角色三栏图](examples/character-generation/写实.png)
+
+[查看写实原图](examples/character-generation/写实.png)
+
+### 奇幻角色
+
+![奇幻角色三栏图](examples/character-generation/奇幻.png)
+
+[查看奇幻原图](examples/character-generation/奇幻.png)
+
+### 武侠角色
+
+![武侠角色三栏图](examples/character-generation/武侠.png)
+
+[查看武侠原图](examples/character-generation/武侠.png)
+
+### 二次元角色
+
+![二次元角色三栏图](examples/character-generation/二次元.png)
+
+[查看二次元原图](examples/character-generation/二次元.png)
